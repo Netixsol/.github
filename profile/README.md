@@ -1,4 +1,4 @@
-## Hi Tech Folks 👋 We're a Blockchain Development Company
+## Hi Tech Folks 👋 Welcome to The Decentralized World of Possibilities
 
 ### We're a Team of Tech enthusiastic who are passionate enough to change the tradional world into Decentrazlied World. We Develop Fin-Tech, Business Solutions, ICO's, IPO's, IDO Launchpad, DEX(Decentralized Exchange), Pre-sales, NFT Minting, & NFT Marketplaces like Raribles.
 
@@ -16,7 +16,7 @@ Polygon (Matic), Tron, Kucoin Blockchain, Houbi Blockchain, Layer 2 Solutions, P
 
 Blockchain Applications Developed & Worked on:
 
-● DEXs (Decentralized Exchanges) Like Uniswap, Pancakeswap & JustSwap.
+● DEXs (Decentralized Exchanges) Like Uniswap, Pancakeswap & JustSwap. 
 ● Tokenization (ERC-20, ERC-721 & ERC-1155)
 ● Audits for Security & Bugs 
 ● Staking for Native Tokens 
