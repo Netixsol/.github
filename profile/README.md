@@ -1,6 +1,6 @@
 ## Hi Tech Folks 👋 Welcome to The Decentralized World of Possibilities
 
-<img src="https://i.imgur.com/u1XQQOe.jpeg" alt="NetixSol Github" width="1640" height="924"/>
+<img src="https://i.imgur.com/u1XQQOe.jpeg" alt="NetixSol Github" width="1640" height="720"/>
 
 ### We're a Team of Tech enthusiastic who are passionate enough to change the tradional world into Decentrazlied World. We Develop Fin-Tech, Business Solutions, ICO's, IPO's, IDO Launchpad, DEX(Decentralized Exchange), Pre-sales, NFT Minting, & NFT Marketplaces like Raribles.
 
